@@ -6,3 +6,11 @@ As I planned to work on a wrapper for Salesforce DX my experience with Salesforc
 The point of this project is to address the issue of the target machine OS compatibility in a world of client-server in general and SaaS in particular and even more in the case of Salesforce implementations.
 
 Write once, run anywhere ([if you see what I mean](https://en.wikipedia.org/wiki/Write_once,_run_anywhere))
+
+To start with, let's see what I think can be called multi-OS. The software needs to support:
+
+* [Microsoft Windows](https://www.microsoft.com/en-gb/windows)
+* [Apple MacOS](https://www.apple.com/uk/macos)
+* [Linux](https://en.wikipedia.org/wiki/Linux)
+* [Google Chrome](https://chromeos.google/)
+* [Apple IPadOS](https://www.apple.com/uk/ipados)
