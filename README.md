@@ -17,3 +17,6 @@ While at it...
 * [Linux](https://en.wikipedia.org/wiki/Linux)
 * [Google Chrome](https://chromeos.google/)
 * [Apple IPadOS](https://www.apple.com/uk/ipados)
+
+# Main Challenge
+Platforms incompatibility (Microsoft vs. Apple)... The original plan was to add an abstraction layer on top of the most popular OS that you could find in a project. This abstraction layer would be [VMWare](https://www.vmware.com/) or (VirtualBox)[https://www.virtualbox.org/] on a PC and [Parrallels](https://www.parallels.com/) on Mac.
