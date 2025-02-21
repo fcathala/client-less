@@ -9,8 +9,11 @@ Write once, run anywhere ([if you see what I mean](https://en.wikipedia.org/wiki
 
 To start with, let's see what I think can be called multi-OS. The software needs to support:
 
+The original target...
 * [Microsoft Windows](https://www.microsoft.com/en-gb/windows)
 * [Apple MacOS](https://www.apple.com/uk/macos)
+
+While at it...
 * [Linux](https://en.wikipedia.org/wiki/Linux)
 * [Google Chrome](https://chromeos.google/)
 * [Apple IPadOS](https://www.apple.com/uk/ipados)
