@@ -41,6 +41,8 @@ The original plan was to add an abstraction layer on top of the most popular OS 
 
 ## Containerisation
 
+![Containerisation by Docker.](/images/containers.png)
+
 Although the **containerisation** of client applications may seems like the next historical step after **virtualisation**, it is a complete [new set of technologies](https://www.docker.com/resources/what-container/) which bring both advantages and drawbacks to the table.
 
 ## Webapp
