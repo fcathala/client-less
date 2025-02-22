@@ -32,7 +32,11 @@ Sorted by priority...
 ## Virtualisation
 ***Platforms incompatibility (Microsoft vs. Apple)***
 
-The original plan was to add an abstraction layer on top of the most popular OS that you can find in a project. This abstraction layer would be [VMWare](https://www.vmware.com/) or [VirtualBox](https://www.virtualbox.org/) on a PC and [Parrallels](https://www.parallels.com/) on Mac. The problem is that these virtual environments are related to the micro-processor instruction set, hence whatever you do, soon or later you will be hitting the Intel vs. Apple processor challenge. I appreciate that nowadays [Parrallels](https://www.parallels.com/products/desktop/) is selling itself as a WinTel emulator but this has not been always the case especially in the early days of Apple move to their own silicium. More over, we are speaking about emulation here which can come with its own bugs and not be weclome in a Cloud Computing implemenmtation project.   
+The original plan was to add an abstraction layer on top of the most popular OS that you can find in a project. This abstraction layer would be [VMWare](https://www.vmware.com/) or [VirtualBox](https://www.virtualbox.org/) on a PC and [Parrallels](https://www.parallels.com/) on Mac. The problem is that these virtual environments are related to the micro-processor instruction set, hence whatever you do, soon or later you will be hitting the Intel vs. Apple processor challenge. I appreciate that nowadays [Parrallels](https://www.parallels.com/products/desktop/) is selling itself as a WinTel emulator but this has not been always the case especially in the early days of Apple move to their own silicium. More over, we are speaking about emulation here which can come with its own bugs and not be weclome in a Cloud Computing implementation project.   
+
+## Containerisation
+
+## Webapp
 
 # Cool links
 
