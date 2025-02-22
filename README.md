@@ -1,11 +1,11 @@
 # Client-less
 ***Develop client applications NOT linked to any specific OS***
 
-As I planned to work on a wrapper for Salesforce DX my experience with Salesforce Ant left me with a bitter taste. If you initiate your project with implementation teams in mind there is a common wall you will be hitting soon or later: **The developer OS of choice**.
+As I planned to work on a wrapper for Salesforce DX, my experience with Salesforce Ant left me with a bitter taste. If you initiate your project with implementation teams in mind, there is a common wall you will be hitting soon or later: **The developer OS of choice**. Some developers are working on Wintel platforms (the majority) and some are on Mac (a sizeable chunk).
 
-The point of this project is to address the issue of the target machine OS compatibility in a world of client-server in general and SaaS in particular and even more in the case of Salesforce implementations.
+The point of this project is to address the issue of the target machine OS compatibility in a world of SaaS client-server in general and in particular Salesforce implementations.
 
-Write once, run anywhere ([if you see what I mean](https://en.wikipedia.org/wiki/Write_once,_run_anywhere))
+> Write once, run anywhere ([if you see what I mean](https://en.wikipedia.org/wiki/Write_once,_run_anywhere))
 
 To start with, let's see what I think can be called multi-OS. The software needs to support:
 
