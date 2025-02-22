@@ -1,5 +1,5 @@
 # Client-less
-***Develop client applications NOT linked to a specific OS***
+***Develop client applications NOT linked to any specific OS***
 
 As I planned to work on a wrapper for Salesforce DX my experience with Salesforce Ant left me with a bitter taste. If you initiate your project with implementation teams in mind there is a common wall you will be hitting soon or later: **The developer OS of choice**.
 
@@ -17,6 +17,16 @@ While at it...
 * [Linux](https://en.wikipedia.org/wiki/Linux)
 * [Google Chrome](https://chromeos.google/)
 * [Apple IPadOS](https://www.apple.com/uk/ipados)
+
+# The official  OS list
+
+Sorted by priority...
+
+1. [Microsoft Windows](https://www.microsoft.com/en-gb/windows) This is the client OS of choice. Most programs are developed for Windows first then adapted to Apple if at all...
+1. [Apple MacOS](https://www.apple.com/uk/macos)
+1. [Linux](https://en.wikipedia.org/wiki/Linux)
+1. [Google Chrome](https://chromeos.google/)
+1. [Apple IPadOS](https://www.apple.com/uk/ipados)
 
 # Main Challenge
 ***Platforms incompatibility (Microsoft vs. Apple)***
