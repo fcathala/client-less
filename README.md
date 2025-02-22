@@ -1,4 +1,4 @@
-# Client-less
+# Deployment lab
 ***Develop client applications NOT linked to any specific OS***
 
 As I planned to work on a wrapper for Salesforce DX, my experience with Salesforce Ant left me with a bitter taste. If you initiate your project with implementation teams in mind, there is a common wall you will be hitting soon or later: **The developer OS of choice**. Some developers are working on Wintel platforms (the majority) and some are on Mac (a sizeable chunk).
