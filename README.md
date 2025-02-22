@@ -5,7 +5,7 @@ As I planned to work on a wrapper for Salesforce DX, my experience with Salesfor
 
 The point of this project is to address the issue of the target machine OS compatibility in a world of SaaS client-server in general and in particular Salesforce implementations.
 
-> Write once, run anywhere ([if you see what I mean](https://en.wikipedia.org/wiki/Write_once,_run_anywhere))
+> [Write once, run anywhere](https://en.wikipedia.org/wiki/Write_once,_run_anywhere).
 
 To start with, let's see what I think can be called multi-OS. The software needs to support:
 
